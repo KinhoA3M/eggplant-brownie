@@ -7,7 +7,7 @@ Alteracao 1
 → Instalação: https://git-scm.com/downloads
 
 ##### Jogo para treinar ramificação do Git
-
+Sem teste
 https://learngitbranching.js.org/
 
  Git possui uma arquitetura distribuída, isso significa que todo desenvolvedor tem uma cópia local do projeto em que está trabalhando, e que ele não precisa de acesso a internet para criar seu histórico de alterações.
