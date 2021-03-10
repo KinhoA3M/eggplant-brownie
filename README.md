@@ -13,7 +13,7 @@ https://learngitbranching.js.org/
  Git possui uma arquitetura distribuída, isso significa que todo desenvolvedor tem uma cópia local do projeto em que está trabalhando, e que ele não precisa de acesso a internet para criar seu histórico de alterações.
  	
 ##### Setting Up GIT
-	
+	Sem nada pra falsr
 $ git config --global user.name "Seu Nome"
 \
 $ git config --global user.email root@localhost.com
